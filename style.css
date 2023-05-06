@@ -40,3 +40,18 @@
 	margin: 20px auto;
 	font-size: 24px;
 }
+
+.square.x:before {
+    content: "X";
+    font-size: 72px;
+    display: block;
+    text-align: center;
+  }
+  
+  .square.o:before {
+    content: "O";
+    font-size: 72px;
+    display: block;
+    text-align: center;
+  }
+  
